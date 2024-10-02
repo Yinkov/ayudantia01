@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ayudantia1.props" />
+</Project>
